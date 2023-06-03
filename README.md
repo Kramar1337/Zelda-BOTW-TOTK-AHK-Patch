@@ -1,8 +1,10 @@
 # ZeldaBOTW&TOTK-AHK-Patch
 
-Пока еще в разработке, тестирую моды на ФПС в ZeldaTOTK
+Пока еще в разработке, тестирую моды на ФПС в ZeldaTOTK.
 
-Самодельный патч для The Legend of Zelda: Breath of the Wild и Tears of the Kingdom устанавливающий игру в **1 клик!** Не включает файлы игры. На Github-е будет лежать исходник патча и модифицированный Mouse2joystick а сам патч на [Boosty](https://boosty.to/kramar1337)
+Самодельный патч для The Legend of Zelda: Breath of the Wild и Tears of the Kingdom устанавливающий игру в **1 клик!** Не включает файлы игры. 
+
+На Github-е будет лежать исходник патча и модифицированный Mouse2joystick, а сам патч на [Boosty](https://boosty.to/kramar1337)
 
 ![123](https://i.imgur.com/S8qldDN.png)
 

@@ -6,7 +6,7 @@
 
 На Github-е будет лежать исходник патча и модифицированный Mouse2joystick, а сам патч на [Boosty](https://boosty.to/kramar1337)
 
-![123](https://i.imgur.com/S8qldDN.png)
+![123](https://i.imgur.com/0B6aCrp.png)
 
 
 

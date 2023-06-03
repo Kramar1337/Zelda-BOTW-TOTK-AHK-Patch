@@ -1,0 +1,1 @@
+# ZeldaBOTW-TOTK-AHK-Patch

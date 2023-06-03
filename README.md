@@ -1,1 +1,5 @@
-# ZeldaBOTW-TOTK-AHK-Patch
+# ZeldaBOTW&TOTK-AHK-Patch
+
+Тут будет лежать только исходник патча и модифицированый m2j.
+
+

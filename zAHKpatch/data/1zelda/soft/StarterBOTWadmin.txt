@@ -1,0 +1,16 @@
+REM Echo %~dp0
+@echo off
+if not "%1"=="am_admin" (
+    powershell -Command "Start-Process -Verb RunAs -FilePath '%0' -ArgumentList 'am_admin'"
+    Exit /b
+)
+set ProcessName1="Cemu.exe"
+set ProcessName2="mouse2joystick_Custom_CEMU.exe"
+TaskList /FI "ImageName EQ %ProcessName1%" | Find /I %ProcessName1%>nul||(
+start "Cemu" "228regexma1" -f -g "228regexma2"
+)
+Timeout 1
+TaskList /FI "ImageName EQ %ProcessName2%" | Find /I %ProcessName2%>nul||(
+start "mouse2joystick_Custom_CEMU" "228regexma3\mouse2joystick_Custom_CEMU.exe"
+)
+Exit

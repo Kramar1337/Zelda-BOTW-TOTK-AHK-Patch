@@ -6,6 +6,12 @@
 
 На Github-е будет лежать исходник патча и модифицированный Mouse2joystick, а сам патч на [Boosty](https://boosty.to/kramar1337)
 
+[__✨Boosty✨__](https://boosty.to/kramar1337)
+[__✨Qiwi✨__](https://qiwi.com/n/KRAMBIBA1337)
+[__✨SteamTrade✨__](https://steamcommunity.com/tradeoffer/new/?partner=176456946&token=QbYR9jmE)
+
+[Подробное описание](https://github.com/Kramar1337/Zelda-BOTW-TOTK-AHK-Patch/wiki)
+
 ![123](https://i.imgur.com/J4QhFuU.png)
 
 

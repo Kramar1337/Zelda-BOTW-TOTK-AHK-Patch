@@ -6,7 +6,13 @@
 
 На Github-е будет лежать исходник патча и модифицированный Mouse2joystick, а сам патч на [Boosty](https://boosty.to/kramar1337)
 
-![123](https://i.imgur.com/J4QhFuU.png)
+[__✨Boosty✨__](https://boosty.to/kramar1337)
+[__✨Qiwi✨__](https://qiwi.com/n/KRAMBIBA1337)
+[__✨SteamTrade✨__](https://steamcommunity.com/tradeoffer/new/?partner=176456946&token=QbYR9jmE)
+
+[Подробное описание](https://github.com/Kramar1337/Zelda-BOTW-TOTK-AHK-Patch/wiki)
+
+{% include youtube.html id="i8NtfaWfFXQ" %}  
 
 
 __🔗Включает в себя следующие файлы:🔗__
@@ -16,6 +22,7 @@ __🔗Включает в себя следующие файлы:🔗__
 - Mouse2joystick (Клавиатура и мышь)
 - Amiibo
 - Frameworkи
+- Моды
 
 __🔗Как использовать:🔗__
 
@@ -24,6 +31,7 @@ __🔗Как использовать:🔗__
 3. Запустить патч и указать путь где расположены файлы игры
 4. Установить
 5. Запуск игры с ярлыка на рабочем столе
+6. *После выхода из игры не забудь закрыть Mouse2joystick, находится в трей меню
 
 ```
 F1 - переключить виртуальный джойстик
@@ -45,10 +53,9 @@ __🔗Ресурсы:🔗__
 | [Microsoft](https://www.microsoft.com/ru-RU/download/details.aspx?id=17718) | Framework 4.exe | Microsoft .NET Framework 4 |
 | [Microsoft](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) | VC redist.exe | Microsoft Visual C++ Redistributable |
 | [Vulkan](https://vulkan.org/tools#vulkan-gpu-resources) | Vulkan-runtime.exe | DLL-ки необходимые для работы некоторых игр на Вулкане |
-
-
-
-
+| [Gbatemp](https://gbatemp.net/download/loz-tears-of-the-kingdom-dynamic-fps-static-fps-and-visual-fixes-patch-collection.37996/) | Моды | Моды для ZeldaTOTK |
+| [Nexusmods](https://www.nexusmods.com/legendofzeldatearsofthekingdom/mods/27?tab=description) | Моды | Моды для ZeldaTOTK, туман |
+| [Gamebanana](https://gamebanana.com/mods/444107) | ReShade | y04nn totk v2 1 |
 
 
 

@@ -22,6 +22,7 @@ __🔗Включает в себя следующие файлы:🔗__
 - Mouse2joystick (Клавиатура и мышь)
 - Amiibo
 - Frameworkи
+- Моды
 
 __🔗Как использовать:🔗__
 
@@ -30,6 +31,7 @@ __🔗Как использовать:🔗__
 3. Запустить патч и указать путь где расположены файлы игры
 4. Установить
 5. Запуск игры с ярлыка на рабочем столе
+6. *После выхода из игры не забудь закрыть Mouse2joystick, находится в трей меню
 
 ```
 F1 - переключить виртуальный джойстик
@@ -51,10 +53,9 @@ __🔗Ресурсы:🔗__
 | [Microsoft](https://www.microsoft.com/ru-RU/download/details.aspx?id=17718) | Framework 4.exe | Microsoft .NET Framework 4 |
 | [Microsoft](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) | VC redist.exe | Microsoft Visual C++ Redistributable |
 | [Vulkan](https://vulkan.org/tools#vulkan-gpu-resources) | Vulkan-runtime.exe | DLL-ки необходимые для работы некоторых игр на Вулкане |
-
-
-
-
+| [Gbatemp]([https://cemu.info/](https://gbatemp.net/download/loz-tears-of-the-kingdom-dynamic-fps-static-fps-and-visual-fixes-patch-collection.37996/)https://gbatemp.net/download/loz-tears-of-the-kingdom-dynamic-fps-static-fps-and-visual-fixes-patch-collection.37996/) | Моды | Моды для ZeldaTOTK |
+| [Nexusmods](https://www.nexusmods.com/legendofzeldatearsofthekingdom/mods/27?tab=description) | Моды | Моды для ZeldaTOTK, туман |
+| [Gamebanana](https://gamebanana.com/mods/444107) | ReShade | y04nn totk v2 1 |
 
 
 

@@ -12,7 +12,7 @@
 
 [Подробное описание](https://github.com/Kramar1337/Zelda-BOTW-TOTK-AHK-Patch/wiki)
 
-![123](https://i.imgur.com/J4QhFuU.png)
+{% include youtube.html id="i8NtfaWfFXQ" %}  
 
 
 __🔗Включает в себя следующие файлы:🔗__
